@@ -7,12 +7,12 @@ This project is a Spring Boot-based RESTful web service designed for managing pr
 
 ## Table of Contents
 
-Introduction
-Prerequisites
-Installation
-Usage
-Endpoints
-Database Configuration
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Endpoints](#endpoints)
+- [Database Configuration](#database-configuration)
 
 ## Introduction
 
