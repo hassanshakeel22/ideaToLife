@@ -59,7 +59,7 @@ public class ProductController {
 	}
 
 	@PutMapping("/products/{productId}")
-	public void updateProduct(@PathVariable Integer productId, @RequestBody ProductRequestMessage requestMessage) {
+	public void updateProduct(@PathVariable Integer productId, @Valid @RequestBody ProductRequestMessage requestMessage) {
 		productService.updateProduct(productId, requestMessage);
 	}
 
