@@ -1,5 +1,8 @@
 # Assignment Project for Spring Boot
 
+![Java Version](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot Version](https://img.shields.io/badge/Spring%20Boot-3.2.1-brightgreen)
+
 This project is a Spring Boot-based RESTful web service designed for managing products. It includes functionalities for retrieving, adding, updating, and deleting products, with support for pagination.
 
 ## Table of Contents
