@@ -27,5 +27,5 @@ Before running the application, ensure that you have the following installed:
 
 1. Clone the repository:
 
-   git clone https://github.com/hassanshakeel22/ideaToLife/assignment
+   git clone https://github.com/hassanshakeel22/ideaToLife
    cd assignment
